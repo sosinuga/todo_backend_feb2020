@@ -2,7 +2,7 @@
 
 This is the back end API of a Todo Application, built throughout the [Tech Returners](https://techreturners.com) Your Journey Into Tech course. It is consumed by a front end React application, available [here](https://github.com/sosinuga/todo_list_frontend_Feb2020) and connects to an RDS Database.
 
-The hosted version of the application is available here: [https://github.com/whatever-link-here](https://sosinuga.github.io/todo_list_frontend_Feb2020/).
+The hosted version of the application is available here: [https://sosinuga.github.io/todo_list_frontend_Feb2020/](https://sosinuga.github.io/todo_list_frontend_Feb2020/).
 
 ### Technology Used
 
